@@ -6,8 +6,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Meyn.Utilities" Version="4.0.0" />
-    <PackageReference Include="UmbracoMongoDbClient" Version="11.0.0" />
+    <PackageReference Include="Meyn.Utilities" Version="5.0.0" />
+    <PackageReference Include="UmbracoMongoDbClient" Version="11.3.1" />
 	  <None Include=".\README.md" Pack="true" PackagePath="\" />
   </ItemGroup>
 
