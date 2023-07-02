@@ -2,7 +2,7 @@
 
 namespace TokenManager
 {
-	public class TokenValue
+	public sealed class TokenValue
 	{
 		public TokenValue(string oneTimeToken, int vaildityInSeconds)
 		{

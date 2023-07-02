@@ -7,7 +7,7 @@ using UmbracoMongoDbClient;
 
 namespace TokenManager
 {
-	public class TokenCollectionItem
+	public sealed class TokenCollectionItem
 	{
 		[BsonId]
 		public string Id { get; set; }
